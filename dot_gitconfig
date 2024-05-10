@@ -3,3 +3,7 @@
 # Please adapt and uncomment the following lines:
 	name = huoyujia081
 	email = huoyujia081@126.com
+
+# alias
+[alias]
+    history = log --all --graph --decorate --oneline
