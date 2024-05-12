@@ -97,4 +97,4 @@ set expandtab      " 将 tab 转换为空格
 set clipboard=unnamedplus
 
 "install ale
-Bundle 'w0rp/ale'
+Plug 'w0rp/ale'
