@@ -95,3 +95,6 @@ set shiftwidth=4   " 设定每级缩进的宽度
 set expandtab      " 将 tab 转换为空格
 "剪贴板配置
 set clipboard=unnamedplus
+
+"install ale
+Plugin 'w0rp/ale'
